@@ -140,7 +140,7 @@ http://localhost:3000
 
 
 
-assets/screenshots/Screenshot 2026-07-19 153809.jpg
+![API Running](<assets/screenshots/Screenshot 2026-07-19 153809.jpg>)
 
 
 ---
