@@ -139,10 +139,10 @@ http://localhost:3000
 ## 🟢 API Running
 
 
-```text
 
-![API Running](<assets/screenshots/Screenshot 2026-07-19 153809.jpg>)
-```
+assets/screenshots/Screenshot 2026-07-19 153809.jpg
+
+
 ---
 
 ## 👤 Create User
