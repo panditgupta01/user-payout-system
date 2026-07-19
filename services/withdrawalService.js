@@ -49,26 +49,22 @@ exports.createWithdrawal = async (userId, amount) => {
 };
 
 exports.updateWithdrawalStatus = async (id, status) => {
-    // Find the withdrawal
     const withdrawal = await Withdrawal.findById(id);
 
     if (!withdrawal) {
         throw new Error("Withdrawal not found");
     }
 
-    // Prevent updating if already completed
     if (withdrawal.status !== "pending") {
         throw new Error("Withdrawal has already been processed");
     }
 
-    // Allowed statuses
     const validStatuses = ["success", "failed", "cancelled", "rejected"];
 
     if (!validStatuses.includes(status)) {
         throw new Error("Invalid withdrawal status");
     }
 
-    // Find user's wallet
     const wallet = await Wallet.findOne({
         userId: withdrawal.userId,
     });
@@ -79,7 +75,6 @@ exports.updateWithdrawalStatus = async (id, status) => {
         throw error;
     }
 
-    // If payout failed, refund the amount
     if (
         status === "failed" ||
         status === "cancelled" ||
@@ -96,7 +91,6 @@ exports.updateWithdrawalStatus = async (id, status) => {
         });
     }
 
-    // Update withdrawal status
     withdrawal.status = status;
 
     await withdrawal.save();
