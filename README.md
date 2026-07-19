@@ -140,7 +140,8 @@ http://localhost:3000
 
 
 ```text
-![API Running](<assets/screenshots/Screenshot 2026-07-19 153809-2.jpg>)
+
+![API Running](<assets/screenshots/Screenshot 2026-07-19 153809.jpg>)
 ```
 ---
 
@@ -274,7 +275,7 @@ Completed        Failed
 
 # 🧪 Testing
 
-The APIs were tested using **Postman**.
+The APIs were tested using **Hoppscotch**.
 
 Tested modules:
 
