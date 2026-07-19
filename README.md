@@ -140,87 +140,86 @@ http://localhost:3000
 
 
 ```text
-![API Running](<Screenshot 2026-07-19 153809-1.jpg>)
+![API Running](<assets/screenshots/Screenshot 2026-07-19 153809-2.jpg>)
 ```
-
 ---
 
 ## 👤 Create User
 
-![Create User](<Screenshot 2026-07-19 143935.png-1.jpg>)
+![Create User](<assets/screenshots/Screenshot 2026-07-19 143935.png-1.jpg>)
 
 ---
 
 ## 👥 Get Users
 
-![Get Users](<Screenshot 2026-07-19 144410-1.jpg>)
+![Get Users](<assets/screenshots/Screenshot 2026-07-19 144410-1.jpg>)
 
 ---
 
 ## 🛍️ Create Sale
 
-![Create Sale](<Screenshot 2026-07-19 144616-1.jpg>)
+![Create Sale](<assets/screenshots/Screenshot 2026-07-19 144616-1.jpg>)
 
 ---
 
 ## 📋 Get All Sales
 
-![Get Sales](<Screenshot 2026-07-19 144816-1.jpg>)
+![Get Sales](<assets/screenshots/Screenshot 2026-07-19 144816-1.jpg>)
 
 ---
 
 ## 💸 Process Advance Payout
 
-![Advance Payout](<Screenshot 2026-07-19 145341-1.jpg>)
+![Advance Payout](<assets/screenshots/Screenshot 2026-07-19 145341-1.jpg>)
 
 ---
 
 ## ✅ Reconcile Sale
 
-![Reconcile Sale](<Screenshot 2026-07-19 150134-1.jpg>)
+![Reconcile Sale](<assets/screenshots/Screenshot 2026-07-19 150134-1.jpg>)
 
 ---
 
 ## 🏦 Create Withdrawal
 
-![Create Withdrawal](<Screenshot 2026-07-19 150748-1.jpg>)
+![Create Withdrawal](<assets/screenshots/Screenshot 2026-07-19 150748-1.jpg>)
 
 ---
 
 
 ## ❌ Re-Withdrawal Within 24 Hour
 
-![Re-Withdrawal](<Screenshot 2026-07-19 152714-1.jpg>)
+![Re-Withdrawal](<assets/screenshots/Screenshot 2026-07-19 152714-1.jpg>)
 
 ---
 
 ## 🗄️ Users Collection
 
-![Users Collection](<Screenshot 2026-07-19 154916-1.jpg>)
+![Users Collection](<assets/screenshots/Screenshot 2026-07-19 154916-1.jpg>)
 
 ---
 
 ## 💼 Wallet Collection
 
-![Wallet Collection](<Screenshot 2026-07-19 155003-1.jpg>)
+![Wallet Collection](<assets/screenshots/Screenshot 2026-07-19 155003-1.jpg>)
 
 ---
 
 ## 🛒 Sales Collection
 
-![Sales Collection](<Screenshot 2026-07-19 155050-1.jpg>)
+![Sales Collection](<assets/screenshots/Screenshot 2026-07-19 155050-1.jpg>)
 
 ---
 
 ## 💳 Transactions Collection
 
-![Transactions Collection](<Screenshot 2026-07-19 155127-1.jpg>)
+![Transactions Collection](<assets/screenshots/Screenshot 2026-07-19 155127-1.jpg>)
 
 ---
 
 ## 🏦 Withdrawals Collection
 
-![Withdrawals Collection](<Screenshot 2026-07-19 155239-1.jpg>)
+![Withdrawals Collection](<assets/screenshots/Screenshot 2026-07-19 155239-1.jpg>)
 
 ---
 
